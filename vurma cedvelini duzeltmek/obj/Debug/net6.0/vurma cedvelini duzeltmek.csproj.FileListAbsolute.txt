@@ -1,0 +1,15 @@
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\vurma cedvelini duzeltmek.csproj.AssemblyReference.cache
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\vurma cedvelini duzeltmek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\vurma cedvelini duzeltmek.AssemblyInfoInputs.cache
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\vurma cedvelini duzeltmek.AssemblyInfo.cs
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\vurma cedvelini duzeltmek.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\bin\Debug\net6.0\vurma cedvelini duzeltmek.exe
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\bin\Debug\net6.0\vurma cedvelini duzeltmek.deps.json
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\bin\Debug\net6.0\vurma cedvelini duzeltmek.runtimeconfig.json
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\bin\Debug\net6.0\vurma cedvelini duzeltmek.dll
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\bin\Debug\net6.0\vurma cedvelini duzeltmek.pdb
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\vurma cedvelini duzeltmek.dll
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\refint\vurma cedvelini duzeltmek.dll
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\vurma cedvelini duzeltmek.pdb
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\vurma cedvelini duzeltmek.genruntimeconfig.cache
+C:\Users\user\Documents\c# projeleri\vurma cedvelini duzeltmek\vurma cedvelini duzeltmek\obj\Debug\net6.0\ref\vurma cedvelini duzeltmek.dll
